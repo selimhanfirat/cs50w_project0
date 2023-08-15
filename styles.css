@@ -1,0 +1,28 @@
+.title, .title_images{
+    text-align: center;
+    padding-top: 15%;
+}
+
+#title_photo, #images_title_photo{
+    margin-bottom: 2%;
+    width: 60%;
+}
+
+
+#search_bar{
+    border-radius: 20px;
+    width: 70%;
+    height: 2.5rem;
+    padding-left: 2%;
+}
+
+#submit_button{
+    margin-top: 500px;
+}
+
+.itemler{
+    margin-right: 1.2rem;
+}
+#images_title_photo{
+    margin: 0;
+}
